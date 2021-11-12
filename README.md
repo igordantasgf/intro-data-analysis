@@ -8,4 +8,4 @@
    
    kc_house_data.csv: some random data i found online
   
-       usa_graph.png: "USA by population" image, plotted with MatPlotLib using data with longitude, latitute and population of USA cities
+   usa_graph.png: "USA by population" image, plotted with MatPlotLib using data with longitude, latitute and population of USA cities
